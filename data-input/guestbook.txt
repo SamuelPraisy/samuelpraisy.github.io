@@ -1,2 +1,2 @@
 
-{"nama":"Langowan Project","pesan":"Selmat Atas Pernikahannya","kehadiran":"Hadir","timestamp":"2025-02-13T09:23:17.873Z","uniqueCode":"Langowan Project-2025-02-13T09:23:17.873Z"}
+{"nama":"Langowan Project","pesan":"Selamat Atas Pernikahannya","kehadiran":"Hadir","timestamp":"2025-02-13T09:23:17.873Z","uniqueCode":"Langowan Project-2025-02-13T09:23:17.873Z"}
