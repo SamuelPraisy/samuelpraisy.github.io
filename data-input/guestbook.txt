@@ -1,2 +1,2 @@
 
-{"nama":"Langowan Project","pesan":"Selamat Atas Pernikahannya","kehadiran":"Hadir","timestamp":"2025-02-13T09:23:17.873Z","uniqueCode":"Langowan Project-2025-02-13T09:23:17.873Z"}
+{"nama":"Langowan Project by Samuel","pesan":"Pernikahan adalah awal dari perjalanan baru. Semoga kalian selalu bersama dalam suka dan duka.","kehadiran":"Hadir","timestamp":"2025-02-06T09:27:59.374Z","uniqueCode":"Langowan Project-2025-02-13T09:23:17.873Z"}
